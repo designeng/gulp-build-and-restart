@@ -1,5 +1,5 @@
 {
-  "name": "gulp-cached-example",
+  "name": "gulp-build-and-restart",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
